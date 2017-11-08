@@ -7,4 +7,4 @@
 		this.css("color","green");
 		return this;
 	};
-}(Jquery))
+}(jQuery))
